@@ -1,6 +1,6 @@
 function main() {
 	console.log("Hello World");
-	return;
+	return true;
 }
 
 main();
